@@ -33,6 +33,7 @@ Known Problems:
 -  Some car logos don't work. Still looking on that.
 -  Probably some flags don't work. Couldn't test all...
 -  Overlay will be active if you hide iRacing UI (space key).
+-  Best lap gap, in a multi class race, will be to the fastest of all classes... Simhub doesn't give other option...
 
 --------------------------------------------------------------------------------------------------------------------------
 
