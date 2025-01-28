@@ -1,2 +1,4 @@
 # iRacing-Spectator-Info
-iRacing overlay in spectator mode
+Simhub overlay, for iRacing.
+
+Small overly to add more info of the driver you are spectating.
