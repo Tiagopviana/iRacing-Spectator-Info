@@ -9,7 +9,7 @@ Small overlay to add more info of the driver you are spectating.
 -  Car Logo
 -  Club Logo
 
-Note1:The overlay will deactivate once you are driving and when you are spectating yourself.
+Note1: The overlay will deactivate once you are driving and when you are spectating yourself (will be over you wheel...).
 
 
 For this overlay to work, you need, in Simhub, to activate "Forced visible"
