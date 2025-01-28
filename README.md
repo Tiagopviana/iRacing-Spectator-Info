@@ -8,7 +8,9 @@ Small overlay to add more info of the driver you are spectating.
 -  Safety Rating
 -  Car Logo
 -  Club Logo
-The overlay will deactivate once you are driving and when you are spectating yourself.
+
+Note1:The overlay will deactivate once you are driving and when you are spectating yourself.
+
 
 For this overlay to work, you need, in Simhub, to activate "Forced visible"
 
@@ -25,4 +27,4 @@ Known Problems:
 -  Probably some flags don't work. Couldn't test all...
 -  Overlay will be active if you hide iRacing UI (space key).
 
-Notes: If you find useful and found an error, or you have some suggestions, feel free to ask!
+Note2: If you find useful and found an error, or you have some suggestions, feel free to ask!
