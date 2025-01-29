@@ -1,13 +1,18 @@
 # iRacing-Spectator-Info
 Simhub overlay, for iRacing.
 
-Small overlay to add more info of the driver you are spectating. 
--  Position in session with total drivers (Base color will be the Class)
--  Best lap and difference to best (Base color will be the Class)
--  iRating
--  Safety Rating
+Small overlay to add more info of the driver you are spectating.
+-  Race type logo + Safety Rating + iRating (design inspired by iRacing UI)
+-  Position in session with total drivers (in single brand race, the color will be the license. In multiclass, the color will be the class color)
+-  Tyre compound
+-  Best lap and difference to best 
 -  Car Logo
 -  Club Logo
+
+Inspiration for the redesign:
+
+![Image](https://github.com/user-attachments/assets/e65b749c-ed0b-49c4-ba58-ce082de8f11f)
+
 
 Note1: The overlay will deactivate once you are driving and when you are spectating yourself (will be over you wheel...).
 
@@ -22,9 +27,7 @@ For this overlay to work, you need, in Simhub, to activate "Forced visible"
 
 example:
 
-![Image](https://github.com/user-attachments/assets/d5f43b00-e8e3-47cd-9bc1-3c62382c7f7c)
-
-![Image](https://github.com/user-attachments/assets/84c3a87d-6d5f-47a9-aaf6-d4ac8b47a91b)
+![Image](https://github.com/user-attachments/assets/e835b902-4c42-405c-a3ef-1aed27663c51)
 
 
 --------------------------------------------------------------------------------------------------------------------------
